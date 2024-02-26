@@ -21,7 +21,16 @@ Later that day, there was another announcement:
 
 They just deleted the form out of thin air? Why? What happened to all the responses? Now everyone who responded to the original form had to do it again! What were they thinking? Can't they just edit the existing form instead of deleting and recreating it? It's ridiculous. 
 
-On top of that, on the updated form[^1], it wasn't possible to vote for two people! It wasn't configured as a tick box form, which can let you pick more than one option, there wasn't a second "who do you want for the other school captain?" box, and there certainly wasn't an option to 
+On top of that, on the updated form[^1], it wasn't possible to vote for two people! It wasn't configured as a tick box form, which can let you pick more than one option, there wasn't even a second "who do you want for the other school captain?" box! This system of voting is known as "[First Past the Post](https://www.youtube.com/watch?v=s7tWHJfhiyo)" and is notoriously bad, especially considering there are two Captains, not one!
+
+Alright, so they might have opened the expression of interest forms a bit early. Maybe they might have had to elect the captains super early, so they need a short deadline. They could have made a big mistake on the forms and decided to delete and recreate it. The people making the form probably didn't know what they were doing, or didn't know about alternative voting systems. But how can they intentionally *not invite the students to listen to the speeches*!
+
+Speeches make or break elections! Especially considering the Year 10's have had little to no contact with the older year groups, or know who they would want to vote for! Nobody at the High School campus even knows the candidates (if they were even included). So how are we meant to pick the captains we want *if we don't even know who we're voting for*? I only cast my vote the way I did because the two names I recognised on the form *were people in my drama class*! Its insane!
+
+On top of all of this, we don't even know who our Year Captains are, or if there's even going to be a re-election, which looks incredibly rare considering we haven't had a re-election *ever*! I personally want to see new leadership representing my year level, not people who we picked *over two years ago* still representing us[^2]. 
+
+Melba Copland, pull your stuff together, and give us representation by people we actually think represent us. 
 # Footnotes
 
 [^1]: I didn't have access to the original form, for those who did please let me know if this was consistent across both of them!
+[^2]: People who won by 3 votes, mind you. 3 votes! Out of hundreds! At least that election was the alternative vote.
