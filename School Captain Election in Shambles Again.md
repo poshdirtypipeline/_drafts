@@ -16,8 +16,8 @@ A week later, on the 12th of February (Monday Week 3), a second announcement was
 
 Later that day, there was another announcement:
 
-![Year Captain voting form deleted?](images/school-captain-election-in-shambles-again-announcment-3-light.png){: .light }
-![Year Captain voting form deleted?](images/school-captain-election-in-shambles-again-announcment-3-dark.png){: .dark }
+![Year Captain voting form deleted?](assets/img/articles/2024-02-26-School-Year-Captains/announcment-3-light.png){: .light }
+![Year Captain voting form deleted?](assets/img/articles/2024-02-26-School-Year-Captains/announcment-3-dark.png){: .dark }
 
 They just deleted the form out of thin air? Why? What happened to all the responses? Now everyone who responded to the original form had to do it again! What were they thinking? Can't they just edit the existing form instead of deleting and recreating it? It's ridiculous. 
 
